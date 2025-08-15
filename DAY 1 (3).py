@@ -1,2 +1,0 @@
-n=input("enter name ")
-print("Namah Shivaya!",n)
